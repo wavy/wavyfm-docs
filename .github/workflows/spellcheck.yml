@@ -1,0 +1,19 @@
+name: spellcheck
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    container:
+      image: node:12
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dependencies
+        run: yarn global add markdown-spellcheck
+      - name: Run spellchecker
+        run: mdspell **/*.md -rn
