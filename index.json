@@ -1,0 +1,41 @@
+{
+  "chapters": [
+    {
+      "id": "intro",
+      "title": "Introduction",
+      "pages": [
+        {
+          "id": "welcome",
+          "title": "Welcome",
+          "subtitle": "Welcome to the wavy.fm developer documentation!"
+        },
+        {
+          "id": "terms",
+          "title": "Developer Terms of Service",
+          "subtitle": "You must read and accept these terms before integrating wavy.fm in your project."
+        },
+        {
+          "id": "changelog",
+          "title": "Change Log",
+          "subtitle": "History of changes in wavy.fm's public APIs"
+        }
+      ]
+    },
+    {
+      "id": "topics",
+      "title": "Topics and Guides",
+      "pages": [
+        {
+          "id": "getting-started",
+          "title": "Getting Started",
+          "subtitle": "A guide around setting up your first application with wavy.fm"
+        },
+        {
+          "id": "auth",
+          "title": "Authorization Guide",
+          "subtitle": "A guide to authenticating with wavy.fm to request resources on behalf of users"
+        }
+      ]
+    }
+  ]
+}
