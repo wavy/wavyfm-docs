@@ -17,7 +17,7 @@
         {
           "id": "changelog",
           "title": "Change Log",
-          "subtitle": "History of changes in wavy.fm's public APIs"
+          "subtitle": "History of changes in wavy.fm's public APIs."
         }
       ]
     },
@@ -28,12 +28,12 @@
         {
           "id": "getting-started",
           "title": "Getting Started",
-          "subtitle": "A guide around setting up your first application with wavy.fm"
+          "subtitle": "A guide around setting up your first application with wavy.fm."
         },
         {
           "id": "auth",
           "title": "Authorization Guide",
-          "subtitle": "A guide to authenticating with wavy.fm to request resources on behalf of users"
+          "subtitle": "A guide to authenticating with wavy.fm to request resources on behalf of users."
         }
       ]
     }
