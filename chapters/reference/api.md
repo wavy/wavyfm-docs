@@ -1,12 +1,12 @@
-The wavy.fm API is a collection [RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer) web services
+The wavy.fm API is a collection of [RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer) web services
 over the HTTPS protocol. In the future, this API may be extended to support additional protocols including gRPC and
 WebSockets.
 
 
 ## Media Type
 
-The API supports a variety of media-types. For the vast majority of transactions, JSON (`application/json` MIME type). All
-text-based transactions, including JSON, are encoded in UTF-8.
+The API supports a variety of media types. For the vast majority of transactions, JSON (`application/json` MIME type)
+is used. All text-based transactions, including JSON, are encoded in UTF-8.
 
 For image-based transaction, endpoints may support one or a combination of the following formats: PNG, JPEG, GIF.
 
