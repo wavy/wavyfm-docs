@@ -36,6 +36,17 @@
           "subtitle": "A guide to authenticating with wavy.fm to request resources on behalf of users."
         }
       ]
+    },
+    {
+      "id": "reference",
+      "title": "Reference",
+      "pages": [
+        {
+          "id": "api",
+          "title": "API Reference",
+          "subtitle": "Basic information about wavy.fm's REST API"
+        }
+      ]
     }
   ]
 }
