@@ -8,7 +8,7 @@ WebSockets.
 The API supports a variety of media types. For the vast majority of transactions, JSON (`application/json` MIME type)
 is used. All text-based transactions, including JSON, are encoded in UTF-8.
 
-For image-based transaction, endpoints may support one or a combination of the following formats: PNG, JPEG, GIF.
+For image-based transactions, endpoints may support one or a combination of the following formats: PNG, JPEG, GIF.
 
 Certain transactions will also support plain text (`text/plain` MIME type).
 
@@ -31,7 +31,7 @@ https://wavy.fm/api/v1/profile
 As of writing, there are 2 versions of the API:
 
 ```
-https://wavy.fm/api/v1
+https://wavy.fm/api/v1beta
 https://wavy.fm/api/internal
 ```
 
@@ -41,8 +41,8 @@ For example, you may not be able to develop a certain types of projects using th
 
 Finally, the latest version of the API (`v1`) is the recommended one to use in new and existing projects. You should
 migrate to new versions as soon as possible to prevent disruptions in your application. While we try to preserve
-backwards-compatibility, we do not guarantee it.
+backward-compatibility, we do not guarantee it.
 
 An exception can be made for versions with the `beta` suffix. Such versions may be sparsely documented and unstable
-until they are stabilized in a full release. For example, the `v2beta` version would be the pre-release version of a
-future `v2` version.
+until they are stabilized in a full release. For example, the `v1beta` version would be the pre-release version of the
+future `v1` version.
