@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Discord
+    url: https://wavy.fm/discord
+    about: Discuss wavy.fm on our Discord server.
+  - name: wavy.fm support
+    url: https://wavy.fm/about/contact
+    about: Contact the wavy.fm staff team here.
