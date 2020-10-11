@@ -37,7 +37,9 @@ https://wavy.fm/api/internal
 
 The `internal` version is reserved for undocumented endpoints with the purpose of enhancing the wavy.fm website. There
 may be additional restrictions in the [Developer Terms of Service](../intro/terms) in regard to the Internal version.
-For example, you may not be able to develop a certain types of projects using this version.
+For example, you may not be able to develop a certain types of projects using this version. Note that all endpoints
+under origins other than `wavy.fm` are considered Internal: for example, `sentry.wavy.fm` and `api.wavy.fm` are Internal
+services.
 
 The latest version of the API is the recommended one to use in new and existing projects. You should
 migrate to new versions as soon as possible to prevent disruptions in your application. While we try to preserve
