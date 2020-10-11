@@ -42,7 +42,7 @@ While using the developer platform, you must not:
 5. misrepresent or mask either your identity (or your application's identity);
 6. interfere or disrupt the API or the servers or networks that provide the developer platform; or
 7. reverse engineer or attempt to extract the source code from any API or any related software,
-   except to the extent that this restriction is expressly prohibited by applicable law;
+   except to the extent that this restriction is expressly prohibited by applicable law.
 
 ### Restrictions on Internal APIs
 
