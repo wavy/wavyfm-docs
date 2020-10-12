@@ -30,7 +30,7 @@ You must not use the developer platform to:
 1. infringe, facilitate infringing, or otherwise incite infringing our Terms of Service and Developer Terms of Service;
 2. promote, distribute, incite, or otherwise facilitate content infringing our Community Code of Conduct;
 3. promote, distribute, or develop commercial products without our express consent and permission;
-4. target users with advertisements  or marketing; or
+4. target users with advertisements or marketing; or
 5. provide services to children under the age of thirteen.
 
 While using the developer platform, you must not:
@@ -51,7 +51,7 @@ developer platform as identified in the API Reference, or otherwise labeled as *
 
 You must not use internal services of the developer platform to:
 
-1. provide a public service (as opposed to a service for personal use or for development) 
+1. provide a public service (as opposed to a service for personal use or for development)
    without our express consent and permission.
 
 ## Termination
