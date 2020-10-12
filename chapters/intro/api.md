@@ -47,3 +47,5 @@ backward-compatibility, we do not guarantee it.
 An exception can be made for versions with the `beta` suffix. Such versions may be sparsely documented and unstable
 until they are stabilized in a full release. For example, the `v1beta` version would be the prerelease version of the
 future `v1` version.
+
+Each version may define its own guidelines on Error Handling, Authentication/Authorization, Data Types, etc.
