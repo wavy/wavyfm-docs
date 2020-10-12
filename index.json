@@ -18,6 +18,11 @@
           "id": "changelog",
           "title": "Change Log",
           "subtitle": "History of changes in wavy.fm's public APIs."
+        },
+        {
+          "id": "api",
+          "title": "API Reference",
+          "subtitle": "Basic information about wavy.fm's REST API."
         }
       ]
     },
@@ -38,13 +43,23 @@
       ]
     },
     {
-      "id": "reference",
-      "title": "Reference",
+      "id": "v1beta",
+      "title": "v1beta Reference",
       "pages": [
         {
-          "id": "api",
-          "title": "API Reference",
-          "subtitle": "Basic information about wavy.fm's REST API"
+          "id": "overview",
+          "title": "Overview",
+          "subtitle": "An overview of the v1beta version of the API."
+        },
+        {
+          "id": "errors",
+          "title": "Error Handling",
+          "subtitle": "How to handle errors returned by the API."
+        },
+        {
+          "id": "auth",
+          "title": "Auth Endpoints",
+          "subtitle": "Reference for Authentication and Authorization endpoints."
         }
       ]
     }

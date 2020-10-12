@@ -3,6 +3,7 @@ name: Documentation Improvements
 about: Suggest improvements in the developer documentation
 labels: unreviewed, doc-improvement
 ---
+
 <!--
 Thanks for opening an issue! Make sure you read our CONTRIBUTING.md file beforehand.
 -->

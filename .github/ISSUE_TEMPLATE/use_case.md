@@ -3,6 +3,7 @@ name: Use Case
 about: Describe a use-case the wavy.fm API should cover
 labels: unreviewed, use-case
 ---
+
 <!--
 Thanks for opening an issue! Make sure you read our CONTRIBUTING.md file beforehand.
 

@@ -2,7 +2,6 @@ The wavy.fm API is a collection of [RESTful](https://en.wikipedia.org/wiki/Repre
 over the HTTPS protocol. In the future, this API may be extended to support additional protocols including gRPC and
 WebSockets.
 
-
 ## Media Type
 
 The API supports a variety of media types. For the vast majority of transactions, JSON (`application/json` MIME type)
