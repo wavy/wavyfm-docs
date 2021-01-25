@@ -23,6 +23,11 @@
           "id": "api",
           "title": "API Reference",
           "subtitle": "Basic information about wavy.fm's REST API."
+        },
+        {
+          "id": "client-libraries",
+          "title": "Client Libraries",
+          "subtitle": "Libraries for interacting with the API in your favorite programming language."
         }
       ]
     },
