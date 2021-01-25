@@ -62,7 +62,8 @@ curl -Ls https://wavy.fm/api/v1beta/token \
   -X POST \
   -H "Authorization: $authorization" \
   -H "Accept: application/json" \
-  -F "grant_type=client_credentials"
+  -H "Content-Type: application/x-www-form-urlencoded" \
+  -d "grant_type=client_credentials"
 ```
 
 If successful, you should receive a JSON response like this:
