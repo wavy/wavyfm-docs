@@ -60,6 +60,16 @@
           "id": "auth",
           "title": "Auth Endpoints",
           "subtitle": "Reference for Authentication and Authorization endpoints."
+        },
+        {
+          "id": "users",
+          "title": "User Endpoints",
+          "subtitle": "Reference for accessing public user profiles."
+        },
+        {
+          "id": "metrics",
+          "title": "Metrics Endpoints",
+          "subtitle": "Reference for accessing global wavy.fm metrics."
         }
       ]
     }
