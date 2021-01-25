@@ -89,7 +89,7 @@ access_token='...' # This is the `access_token` from the previous response
 
 curl -Ls https://wavy.fm/api/v1beta/metrics/total-listens \
   -X GET \
-  -H "Authorization: Bearer $access_token"
+  -H "Authorization: Bearer $access_token" \
   -H "Accept: application/json"
 # Outputs 17711893
 ```
