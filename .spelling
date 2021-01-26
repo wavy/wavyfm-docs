@@ -26,3 +26,5 @@ N.B
 grant_type
 client_credentials
 non-refreshable
+leaderboard
+UUID
