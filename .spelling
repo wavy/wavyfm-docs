@@ -28,3 +28,10 @@ client_credentials
 non-refreshable
 leaderboard
 UUID
+boolean
+Spotify
+URI
+URIs
+RFC3339
+downscaled
+timestamp

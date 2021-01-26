@@ -1,4 +1,4 @@
-## Total Listens
+## Get Total Listens
 
 ```http request
 GET /metrics/total-listens
@@ -23,7 +23,7 @@ This endpoint returns JSON. There is no object returned, only the integer (the t
 | 401         | Access token is invalid      | `token.invalid` |              | The given access token is invalid       |
 | 401         | Access token is expired      | `token.expired` |              | The given access token has expired      |
 
-## Total Users
+## Get Total Users
 
 ```http request
 GET /metrics/total-users
@@ -48,10 +48,10 @@ This endpoint returns JSON. There is no object returned, only the integer (the t
 | 401         | Access token is invalid      | `token.invalid` |              | The given access token is invalid       |
 | 401         | Access token is expired      | `token.expired` |              | The given access token has expired      |
 
-## Global Listens Leaderboard
+## Get Global Listens Leaderboard
 
 ```http request
-GET /metrics/total-users
+GET /metrics/user-listens-leaderboard
 ```
 
 Retrieves the leaderboard of the top 10 users by listen count. Note that this endpoint is cached for a few minutes.
