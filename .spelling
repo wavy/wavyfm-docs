@@ -23,3 +23,6 @@ v1beta
 oauth
 base-64
 N.B
+grant_type
+client_credentials
+non-refreshable
